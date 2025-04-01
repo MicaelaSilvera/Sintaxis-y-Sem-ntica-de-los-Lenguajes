@@ -1,5 +1,5 @@
 # 00-"Hello World"
-## **Autor de la resolución:** Micaela Silvera
+## **Autor de la resolución:**
 - **Usuario Github:** Micaela Silvera
 - **Apellido:** Silvera
 - **Nombre:** Micaela

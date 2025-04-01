@@ -8,3 +8,4 @@
 - Tener un primer contacto con las herramientas necesarias para abordar la resolución de los trabajos posteriores.
 - Creación de repositorio personal git.
 - Armado de equipo de trabajo.
+## **Hipótesis del trabajo:**
